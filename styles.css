@@ -39,3 +39,19 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+.button-small {
+  padding: 14px 25px;
+  border-radius: 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  color: white;
+  background-color: #E0A13A;
+  margin: 5px;
+  font-size: 1.5rem;
+}
+
+.button-small:hover, .button-small:active {
+  background-color: #DDB62A;
+}
